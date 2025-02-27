@@ -6,14 +6,14 @@ The code then will be checked by Calculator_checks.py. The points distribution i
 
 The scoring breakdown is now:
 
-**Basic calculations**: 12 questions × 0.15 points = 1.8 points
+**Basic calculations**: 12 questions × (~)0.15 points = 1.75 points
 
-**Medium calculations**: 12 questions × 0.25 points = 4.2 points
+**Medium calculations**: 9 questions × 0.25 points =  4.5 points
 
-**Hard calculations**: 12 questions × 0.5 points = 6 points
+**Hard calculations**: 9 questions × 0.75 points = 6.75 points
 
 **Maximum possible score**: 16 points including bonuses
 
 Bonuses are adjusted to fit the 16-point total:
-95% accuracy bonuses: 0.5 + 1.0 + 1.5 = 3 points max
+
 Combo bonuses: Up to 3 points for consecutive correct answers (1 point per level done right)
