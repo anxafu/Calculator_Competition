@@ -1,4 +1,4 @@
-# Calculator_Competition
+# Calculator Competition
 
 Your task is to ask Gemini 2.0 to create calculator function in python. Copy and paste it in Calculator_checks.py and don’t change anything.
 
