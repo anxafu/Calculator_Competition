@@ -1,6 +1,6 @@
 # Calculator_Competition
 
-Your task is to ask Gemini 1.5 flash to create calculator function in python. Copy and paste in the program and don’t change anything.
+Your task is to ask Gemini 2.0 to create calculator function in python. Copy and paste in the program and don’t change anything.
 
 The code then will be checked by Calculator_checks.py. The points distribution is as follows:
 
